@@ -130,22 +130,6 @@ Precision and recall per class:
 - Testing on data from other institutions
 - Personalized intervention recommendations
 
-## Team
-
-Group 05, DA3131 Data Mining
-
-| Name | Student ID |
-|---|---|
-| | |
-| | |
-| | |
-| | |
-| | |
-
 ## Reference
 
 Realinho, V., Machado, J., Baptista, L., and Martins, M. V. (2021). *Predict Students' Dropout and Academic Success* [Dataset]. UCI Machine Learning Repository.
-
-## License
-
-The dataset is shared under CC BY 4.0. Add a license for your own work if you wish, for example MIT.
