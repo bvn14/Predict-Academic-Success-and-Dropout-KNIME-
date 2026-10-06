@@ -60,7 +60,8 @@ Change the names above to match your actual files.
 
 ## Workflow overview
 
-![KNIME workflow](images/knime_canvas.png)
+![KNIME workflow](images/knime_canvas.png)<img width="1447" height="662" alt="Student_Dropout" src="https://github.com/user-attachments/assets/5a1e6f3c-dfd0-4cc0-9124-cbfe7a0834bd" />
+
 
 ### 1. Data reading
 - **CSV Reader** reads `dataset.csv` (delimiter `;`).
