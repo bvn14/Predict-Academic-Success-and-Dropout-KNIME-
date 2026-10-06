@@ -1,6 +1,6 @@
 # Predict Academic Success and Dropout (KNIME)
 
-Group 05 | DA3131 Data Mining | Group Project
+DA3131 Data Mining
 
 A KNIME workflow that predicts whether a university student will **drop out**, stay **enrolled**, or **graduate**. The goal is to build an early warning system so universities can support at-risk students sooner.
 
